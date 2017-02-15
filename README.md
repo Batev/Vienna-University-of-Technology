@@ -1,10 +1,8 @@
 # Vienna-University-of-Technology
 
 ## Overview
-
-⋅⋅⋅In this repository I have uploaded some of the projects, that I have completed during my studies at the Vienna University of Technology.**
-
-⋅⋅⋅Most of the courses are held in german, which makes the exercises to be written in german. The documentation is written in english._
+&nbsp;&nbsp;&nbsp;&nbsp;**In this repository I have uploaded some of the projects, that I have completed during my studies at the Vienna University of Technology.**
+&nbsp;&nbsp;&nbsp;&nbsp;_Most of the courses are held in german, which makes the exercises to be written in german. The documentation is written in english._
 
 
 ## Courses
