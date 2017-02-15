@@ -2,7 +2,7 @@
 
 ## Overview
 &nbsp;&nbsp;&nbsp;&nbsp;**In this repository I have uploaded some of the projects, that I have completed during my studies at the Vienna University of Technology.**<br />
-&nbsp;&nbsp;&nbsp;&nbsp;_Most of the courses are held in german, which makes the exercises to be written in german. The documentation is written in english._
+&nbsp;&nbsp;&nbsp;&nbsp;_Most of the courses are taught in German, which makes the exercises to be written in German. The documentation is written in English._
 
 ## Courses
  - [Algorithms and Data Structures](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Algorithms%20and%20Data%20Structures)
