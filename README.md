@@ -21,4 +21,4 @@
  - [Mondrian _(Java)_](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Introduction%20to%20Programming/Mondrian)
  - [Client Authentication _(C)_](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Operating%20Systems/Client%20Authentication)
  - [Inter-process Communication _(C)_](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Operating%20Systems/Inter-process%20Communication)
- - [Horse Housing System ](https://github.com/Batev/Horse-Housing-System)
+ - [Horse Housing System _(Java)_](https://github.com/Batev/Horse-Housing-System)
