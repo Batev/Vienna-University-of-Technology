@@ -9,7 +9,7 @@
  - [Functional Programming](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Functional%20Programming)
  - [Introduction to Programming](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Introduction%20to%20Programming)
  - [Operating Systems](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Operating%20Systems)
- - [Software Engineering and Project Management](https://github.com/Batev/Wendy)
+ - [Software Engineering and Project Management](https://github.com/Batev/Horse-Housing-System)
 
 ## Projects
  - [k-Minimum Spanning Tree _(Java)_](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Algorithms%20and%20Data%20Structures/k-Minimum%20Spanning%20Tree)
@@ -21,4 +21,4 @@
  - [Mondrian _(Java)_](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Introduction%20to%20Programming/Mondrian)
  - [Client Authentication _(C)_](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Operating%20Systems/Client%20Authentication)
  - [Inter-process Communication _(C)_](https://github.com/Batev/Vienna-University-of-Technology/tree/master/Operating%20Systems/Inter-process%20Communication)
- - [Horse Housing System ](https://github.com/Batev/Wendy)
+ - [Horse Housing System ](https://github.com/Batev/Horse-Housing-System)
